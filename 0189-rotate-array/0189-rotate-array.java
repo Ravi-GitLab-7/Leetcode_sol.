@@ -1,9 +1,9 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        k %= nums.length;  // In case k is larger than the array length
-        reverse(nums, 0, nums.length - 1);     // Reverse the whole array
-        reverse(nums, 0, k - 1);               // Reverse first part
-        reverse(nums, k, nums.length - 1);     // Reverse second part
+        k %= nums.length;  
+        reverse(nums, 0, nums.length - 1);     //full reverse
+        reverse(nums, 0, k - 1);               // split reverse
+        reverse(nums, k, nums.length - 1);     // after k steps rotateArray
     }
 
     public void reverse(int[] nums, int start, int end) {
