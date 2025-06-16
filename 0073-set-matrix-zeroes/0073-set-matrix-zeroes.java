@@ -1,22 +1,33 @@
 class Solution {
     public void setZeroes(int[][] arr) {
-          int m = arr.length, n = arr[0].length;
-      int [][] helper = new int[m][n];
-        for (int i = 0; i <m ; i++) {
-            for (int j = 0; j <n ; j++) {
-                helper[i][j]= arr[i][j];
+       int m = arr.length, n = arr[0].length;
+        boolean[] row = new boolean[m];
+        boolean[] coln = new boolean[n];
+
+        // Mark the rows and columns where 0s are present
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (arr[i][j] == 0) {
+                    row[i] = true;
+                    coln[j] = true;
+                }
             }
         }
-        for (int i = 0; i <m ; i++) {
-            for (int j = 0; j <n ; j++) {
-                if(helper[i][j]==0){
-                    //set the ith rows and jth colns 0's
-                    for(int b=0;b<n;b++){
-                        arr[i][b]=0;
-                    }
-                    for(int a=0;a<m;a++){
-                        arr[a][j]=0;
-                    }
+
+        // Set the rows to 0
+        for (int i = 0; i < m; i++) {
+            if (row[i]) {
+                for (int j = 0; j < n; j++) {
+                    arr[i][j] = 0;
+                }
+            }
+        }
+
+        // Set the columns to 0
+        for (int j = 0; j < n; j++) {
+            if (coln[j]) {
+                for (int i = 0; i < m; i++) {
+                    arr[i][j] = 0;
                 }
             }
         }
