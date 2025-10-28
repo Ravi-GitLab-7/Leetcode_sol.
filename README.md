@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -31,6 +32,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -48,4 +50,16 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0493-reverse-pairs) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
