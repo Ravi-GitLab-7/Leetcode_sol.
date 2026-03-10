@@ -65,15 +65,18 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
