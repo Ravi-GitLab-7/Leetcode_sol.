@@ -68,6 +68,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0141-linked-list-cycle/) | Easy |
@@ -107,4 +108,8 @@
 | [0054-spiral-matrix](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0059-spiral-matrix-ii/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/2326-spiral-matrix-iv/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
