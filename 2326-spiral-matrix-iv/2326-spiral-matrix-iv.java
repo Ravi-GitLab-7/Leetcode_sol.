@@ -13,7 +13,7 @@ class Solution {
 
         int[][] matrix = new int[m][n];                        
 
-        // 🔴 ADDED (fill matrix with -1 first)
+        // (fill matrix with -1 first)
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 matrix[i][j] = -1;
