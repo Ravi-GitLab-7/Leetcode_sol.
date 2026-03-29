@@ -1,6 +1,36 @@
 class Solution {
 
     public ListNode reverseList(ListNode head){
+     //method 1
+    // public boolean isPalindrome(ListNode head) {
+    //     if(head == null || head.next == null) return true;
+
+    //     // create copy list
+    //     ListNode newHead = new ListNode(head.val);
+    //     ListNode t1 = head.next;
+    //     ListNode t2 = newHead;
+
+    //     while(t1 != null){
+    //         ListNode temp = new ListNode(t1.val);
+    //         t2.next = temp;
+    //         t2 = t2.next;
+    //         t1 = t1.next;
+    //     }
+
+    //     // reverse copy
+    //     newHead = reverseList(newHead);
+
+    //     // compare
+    //     t1 = head;
+    //     t2 = newHead;
+
+    //     while(t1 != null){
+    //         if(t1.val != t2.val) return false;
+    //         t1 = t1.next;
+    //         t2 = t2.next;
+    //     }
+    //     return true;
+    // }
         ListNode curr = head;
         ListNode prev = null;
         while(curr != null){
@@ -13,6 +43,7 @@ class Solution {
     }
 
     public boolean isPalindrome(ListNode head) {
+        // method 2
         if(head == null || head.next == null) return true;
 
         // Step 1: find middle
