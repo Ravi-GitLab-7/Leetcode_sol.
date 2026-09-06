@@ -24,6 +24,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0038-count-and-say) |
+| [0257-binary-tree-paths](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -145,6 +149,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
