@@ -135,6 +135,7 @@
 | [0226-invert-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [0226-invert-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [0226-invert-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -180,4 +183,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
