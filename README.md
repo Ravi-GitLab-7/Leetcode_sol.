@@ -196,4 +196,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0543-diameter-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
