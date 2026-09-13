@@ -16,8 +16,10 @@
 class Solution {
     public int rangeSumBST(TreeNode root, int lo, int hi) {
         if(root == null) return 0;
-        int sum = rangeSumBST(root.left,lo,hi) + rangeSumBST(root.right,lo,hi);
-        if(root.val>=lo && root.val<=hi) sum += root.val;
-        return sum;
+        //if val small than target then goes to right 
+        if(root.val<lo) return rangeSumBST(root.right,lo,hi);
+        //if val greater than target then goes to left 
+        if(root.val>hi) return rangeSumBST(root.left,lo,hi);
+        return root.val + rangeSumBST(root.right,lo,hi) +rangeSumBST(root.left,lo,hi);
     }
 }
