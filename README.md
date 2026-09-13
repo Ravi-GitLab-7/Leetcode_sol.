@@ -141,6 +141,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -200,4 +202,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0175-combine-two-tables) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
