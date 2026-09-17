@@ -43,6 +43,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0493-reverse-pairs) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -197,6 +200,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -236,4 +240,9 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1382-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
