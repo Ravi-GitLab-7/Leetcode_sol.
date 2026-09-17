@@ -7,6 +7,7 @@
 | [0054-spiral-matrix](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0792-binary-search) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -133,6 +135,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -178,6 +181,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -225,6 +229,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0700-search-in-a-binary-search-tree) |
