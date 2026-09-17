@@ -11,6 +11,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0792-binary-search) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1646-kth-missing-positive-number) |
 | [2326-spiral-matrix-iv](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/2326-spiral-matrix-iv/) | Medium |
@@ -126,6 +127,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -199,6 +202,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -239,10 +243,15 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1382-balance-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
