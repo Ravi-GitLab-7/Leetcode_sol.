@@ -79,6 +79,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -141,6 +143,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0199-binary-tree-right-side-view) |
@@ -166,6 +169,7 @@
 | [0101-symmetric-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0199-binary-tree-right-side-view) |
@@ -191,6 +195,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0199-binary-tree-right-side-view) |
