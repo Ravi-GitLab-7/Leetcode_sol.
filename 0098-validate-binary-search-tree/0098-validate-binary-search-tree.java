@@ -1,30 +1,29 @@
 class Solution {
-
-    static boolean flag;
-    public long max(TreeNode root) {
-        if (root == null) return Long.MIN_VALUE;
-        long a = root.val;
-        long b = max(root.left);
-        long c = max(root.right);
-        if (b >= root.val) {
-            flag = false;
-        }
-        return Math.max(a, Math.max(b, c));
-    }
-    public long min(TreeNode root) {
-        if (root == null) return Long.MAX_VALUE;
-        long a = root.val;
-        long b = min(root.left);
-        long c = min(root.right);
-        if (c <= root.val) {
-            flag = false;
-        }
-        return Math.min(a, Math.min(b, c));
-    }
     public boolean isValidBST(TreeNode root) {
-        flag = true;
-        max(root);
-        min(root);
-        return flag;
+        TreeNode prev = null;
+        TreeNode curr = root;
+        while(curr != null){
+            if(curr.left!=null){
+                TreeNode pred = curr.left;
+                while(pred.right!=null&&pred.right!=curr){
+                    pred = pred.right;
+                }
+                if(pred.right==null){// link
+                    pred.right = curr;
+                    curr = curr.left;
+                }
+                else{ // unlink
+                    if(prev!=null && prev.val>=curr.val) return false;
+                    prev = curr;
+                    curr = curr.right;
+                }
+            }
+            else{ // visit current
+                if(prev!=null && prev.val>=curr.val) return false;
+                prev = curr;
+                curr = curr.right;
+            }
+        }
+        return true;
     }
 }
