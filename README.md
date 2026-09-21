@@ -16,6 +16,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1646-kth-missing-positive-number) |
 | [2326-spiral-matrix-iv](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0022-generate-parentheses](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0257-binary-tree-paths) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0202-happy-number/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +124,7 @@
 | [0054-spiral-matrix](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0059-spiral-matrix-ii/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/2326-spiral-matrix-iv/) | Medium |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Recursion
 |  |
 | ------- |
