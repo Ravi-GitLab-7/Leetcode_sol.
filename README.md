@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -100,6 +101,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0142-linked-list-cycle-ii/) | Medium |
