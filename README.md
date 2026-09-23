@@ -16,6 +16,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1207-unique-number-of-occurrences) |
 | [1646-kth-missing-positive-number](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1646-kth-missing-positive-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2094-finding-3-digit-even-numbers) |
 | [2326-spiral-matrix-iv](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0215-kth-largest-element-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2094-finding-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0202-happy-number/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1207-unique-number-of-occurrences) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Math
@@ -133,6 +136,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2094-finding-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -277,4 +281,8 @@
 |  |
 | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
