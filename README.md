@@ -17,6 +17,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1646-kth-missing-positive-number) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2094-finding-3-digit-even-numbers) |
 | [2326-spiral-matrix-iv](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -115,6 +116,7 @@
 | [0202-happy-number](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0202-happy-number/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/0202-happy-number/) | Easy |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Matrix
 |  |
@@ -285,6 +288,7 @@
 |  |
 | ------- |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Enumeration
 |  |
