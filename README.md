@@ -36,6 +36,7 @@
 | [0022-generate-parentheses](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0257-binary-tree-paths) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
 |  |
@@ -119,6 +120,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1814-count-nice-pairs-in-an-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -300,4 +302,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1930-unique-length-3-palindromic-subsequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1930-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
