@@ -6,7 +6,7 @@ class Solution {
             this.ele = ele;
             this.diff = diff;
         }
-        // @Override
+        @Override 
         public int compareTo(pair p) {
             if (this.diff == p.diff) {
                 return this.ele - p.ele;
