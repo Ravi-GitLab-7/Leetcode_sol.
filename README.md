@@ -19,6 +19,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1636-sort-array-by-increasing-frequency) |
 | [1646-kth-missing-positive-number](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1646-kth-missing-positive-number) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2094-finding-3-digit-even-numbers) |
@@ -84,6 +85,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0973-k-closest-points-to-origin) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1636-sort-array-by-increasing-frequency) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2094-finding-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
@@ -135,6 +137,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0347-top-k-frequent-elements) |
 | [1207-unique-number-of-occurrences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1636-sort-array-by-increasing-frequency) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1814-count-nice-pairs-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2094-finding-3-digit-even-numbers) |
