@@ -20,6 +20,7 @@
 | [1046-last-stone-weight](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1207-unique-number-of-occurrences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1207-unique-number-of-occurrences) |
+| [1480-running-sum-of-1d-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1480-running-sum-of-1d-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1636-sort-array-by-increasing-frequency) |
 | [1646-kth-missing-positive-number](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1646-kth-missing-positive-number) |
@@ -342,6 +343,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1480-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Geometry
 |  |
