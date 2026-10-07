@@ -10,6 +10,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0215-kth-largest-element-in-an-array) |
+| [0303-range-sum-query-immutable](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0493-reverse-pairs) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -343,6 +344,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1480-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Geometry
@@ -361,6 +363,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0303-range-sum-query-immutable) |
 ## Data Stream
 |  |
 | ------- |
