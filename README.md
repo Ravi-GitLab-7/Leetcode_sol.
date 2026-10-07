@@ -30,6 +30,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2094-finding-3-digit-even-numbers) |
 | [2326-spiral-matrix-iv](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Binary Search
 |  |
@@ -349,6 +350,7 @@
 | [0724-find-pivot-index](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1480-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Geometry
 |  |
 | ------- |
