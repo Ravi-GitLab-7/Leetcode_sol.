@@ -15,6 +15,7 @@
 | [0493-reverse-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0493-reverse-pairs) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0792-binary-search) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -345,6 +346,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1480-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Geometry
