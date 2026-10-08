@@ -30,6 +30,7 @@
 | [1814-count-nice-pairs-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1814-count-nice-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2094-finding-3-digit-even-numbers) |
 | [2326-spiral-matrix-iv](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/main/2326-spiral-matrix-iv/) | Medium |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -41,6 +42,7 @@
 | [0792-binary-search](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1646-kth-missing-positive-number) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2389-longest-subsequence-with-limited-sum) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1636-sort-array-by-increasing-frequency) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2094-finding-3-digit-even-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -319,6 +322,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1382-balance-a-binary-search-tree) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -352,6 +356,7 @@
 | [0724-find-pivot-index](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1480-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Geometry
 |  |
