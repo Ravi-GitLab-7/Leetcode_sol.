@@ -10,6 +10,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0303-range-sum-query-immutable) |
@@ -41,6 +42,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0209-minimum-size-subarray-sum) |
 | [0493-reverse-pairs](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0792-binary-search) |
@@ -348,6 +350,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0209-minimum-size-subarray-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0658-find-k-closest-elements) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -358,6 +361,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0560-subarray-sum-equals-k) |
