@@ -23,6 +23,7 @@
 | [0724-find-pivot-index](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0792-binary-search) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0973-k-closest-points-to-origin) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1046-last-stone-weight) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -49,6 +50,7 @@
 | [0658-find-k-closest-elements](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1646-kth-missing-positive-number) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -358,6 +360,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
@@ -373,6 +376,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1480-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1930-unique-length-3-palindromic-subsequences) |
