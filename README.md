@@ -30,6 +30,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1636-sort-array-by-increasing-frequency) |
 | [1646-kth-missing-positive-number](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1646-kth-missing-positive-number) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0198-house-robber) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -357,6 +359,7 @@
 | [0658-find-k-closest-elements](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
 |  |
 | ------- |
