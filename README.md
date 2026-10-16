@@ -22,6 +22,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0792-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -167,6 +168,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0904-fruit-into-baskets](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1636-sort-array-by-increasing-frequency) |
@@ -361,6 +363,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ravi-GitLab-7/Leetcode_sol./tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
