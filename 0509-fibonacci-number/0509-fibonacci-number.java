@@ -12,16 +12,15 @@ class Solution {
     }
     */ 
     // so we can use rec + Memoization use dp top - down approch
-    static int[] dp;
-    public int fibo(int n){
+    public int fibo(int n,int[] dp){
         if(n<=1) return n;
         if(dp[n]!=0) return n;
-        int ans = fib(n-1)+fib(n-2);
+        int ans = fibo(n-1,dp)+fibo(n-2,dp);
         return ans;
     }
      public int fib(int n){
-        dp = new int[n+1];
-        return fibo(n);
+        int[]dp = new int[n+1];
+        return fibo(n,dp);
     }
 
 }
