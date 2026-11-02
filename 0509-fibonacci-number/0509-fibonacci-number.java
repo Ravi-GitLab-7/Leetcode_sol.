@@ -11,10 +11,10 @@ class Solution {
         return fib(n-1) + fib(n-2);
     }
     */ 
-    // so we can use rec + Memoization use dp top - down approch
+    // so we can use rec + Memoization use dp top - down approch tc = 
     public int fibo(int n,int[] dp){
         if(n<=1) return n;
-        if(dp[n]!=0) return n;
+        if(dp[n]!=0) return dp[n];
         int ans = fibo(n-1,dp)+fibo(n-2,dp);
         return ans;
     }
